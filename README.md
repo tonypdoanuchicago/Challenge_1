@@ -9,7 +9,7 @@ GitHub Repo
 https://github.com/tonypdoanuchicago/Challenge_1
 
 Web Page Screenshot
-![alt text](https://github.com/tonypdoanuchicago/Challenge_1)
+![Uploading Challenge_1_Screenshot.png…]()
 
 Grading Requirements
 
